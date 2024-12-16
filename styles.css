@@ -21,7 +21,7 @@ body {
 }
 
 header {
-    text-align: center;
+    text-align: justify;
     margin-bottom: 4rem;
     padding: 3rem;
     background: rgba(255, 255, 255, 0.05);
